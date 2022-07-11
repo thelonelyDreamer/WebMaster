@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+**/out/
+**/target/
+**/*.iml
+**/.idea/
+
+**/.vscode/
+**/dist/
+**/n/
+
